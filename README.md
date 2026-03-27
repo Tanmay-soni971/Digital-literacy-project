@@ -1,6 +1,6 @@
 # digital-literacy-project
-Hi, I'm Tanmay soni 👋
-Reg no. 25BAI11463
+# Hi, I'm Tanmay soni 👋
+# Reg no. 25BAI11463
 🎓 B.Tech CSE(AI-ML) Student
 📍 VIT BHOPAL 📅 Expected Graduation: 2029
 
